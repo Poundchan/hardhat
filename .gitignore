@@ -1,0 +1,20 @@
+# Node.js dependencies
+node_modules/
+
+# Hardhat files
+artifacts/
+cache/
+coverage/
+
+# Environment variables
+.env
+
+# Compiled contracts
+*.sol.js
+
+# Test files
+test-results/
+
+# Miscellaneous
+.DS_Store
+*.log
